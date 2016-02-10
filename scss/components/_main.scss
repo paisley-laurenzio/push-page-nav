@@ -35,6 +35,8 @@ header {
   background-color: $dark-grey;
 }
 
+
+
 .toggle-btn {
     position: absolute;
     right: 1em;
@@ -94,9 +96,10 @@ header {
     padding-top: .9em;
 }
 
-.img {
-    overflow: hidden;        
-    width: 100%;
+ 
+    .img img {
+        overflow: hidden;
+        width: 100%;
     }
 
 //this is the only time we will ever use max width ever
@@ -188,11 +191,7 @@ header {
     }
         
 }
- 
-    .img {
-        overflow: hidden;
-        width: 100%;
-    }
+
 }
 
 
