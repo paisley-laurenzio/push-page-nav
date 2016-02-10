@@ -112,7 +112,7 @@ header {
   padding-top: .9em;
 }
 
-.img {
+.img img {
   overflow: hidden;
   width: 100%;
 }
@@ -190,10 +190,6 @@ header {
   .navigation a:hover {
     background-color: #e31c1c;
     width: 170px;
-  }
-  .img {
-    overflow: hidden;
-    width: 100%;
   }
 }
 
